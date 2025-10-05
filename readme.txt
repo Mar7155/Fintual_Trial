@@ -11,3 +11,8 @@ npm install
 3. ejecutar prueba
 
 npm start
+
+
+Enlace a los chats de llm que utilicé para este ejercicio
+
+https://g.co/gemini/share/8ed599d2365a
